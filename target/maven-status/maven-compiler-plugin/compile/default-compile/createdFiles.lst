@@ -1,0 +1,8 @@
+br\com\erudio\application\controllers\PersonController.class
+br\com\erudio\domain\exceptions\ExceptionResponse.class
+br\com\erudio\repositories\PersonReposity.class
+br\com\erudio\services\PersonServices.class
+br\com\erudio\model\Person.class
+br\com\erudio\DemoApplication.class
+br\com\erudio\domain\exceptions\CustomizedResponseEntityExceptionHandler.class
+br\com\erudio\domain\exceptions\ResourceNotFoundException.class
